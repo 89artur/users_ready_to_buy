@@ -1,7 +1,7 @@
-📦predicting_cardiovascular_disease_risk<br>
+📦users_ready_to_buy<br>
 ┣━━ 📂**notebook** <br> 
 ┃     ┗━━`users_to_ready_buy.ipynb`   # *тетрадка юпитерноутбук с проектом*<br> 
-┗━━ `requirements_main.txt`    - *Зависимости Python для API*<br>
+┗━━ `requirements_main.txt`    - *Зависимости Python*<br>
 
 # Описание проекта
 
